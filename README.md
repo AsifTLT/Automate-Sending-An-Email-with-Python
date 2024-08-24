@@ -1,4 +1,4 @@
-Projects: Automate Sending An Email with Python 🎉
+Projects: Automate Sending An Email with Python ✨
 
 🔗 If You Run This Project And get the Preview! here is Link : https://stackblitz.com/~/github.com/AsifTLT/Automate-Sending-An-Email-with-Python
 
